@@ -1,0 +1,11 @@
+.row {
+  display: flex;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.col {
+  flex-basis: 100px;
+  flex-grow: 1;
+  margin: 20px;
+}
