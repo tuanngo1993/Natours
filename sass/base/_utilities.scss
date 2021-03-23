@@ -5,21 +5,21 @@
   &margin {
     &-bottom {
       &-big {
-        margin-bottom: 8rem;
+        margin-bottom: 8rem !important;
       }
       &-medium {
-        margin-bottom: 4rem;
+        margin-bottom: 4rem !important;
       }
       &-small {
-        margin-bottom: 1.5rem;
+        margin-bottom: 1.5rem !important;
       }
     }
     &-top {
       &-big {
-        margin-top: 8rem;
+        margin-top: 8rem !important;
       }
       &-huge {
-        margin-top: 10rem;
+        margin-top: 10rem !important;
       }
     }
   }
